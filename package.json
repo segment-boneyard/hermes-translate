@@ -1,0 +1,25 @@
+{
+  "name": "hermes-translate",
+  "version": "0.0.1",
+  "description": "Teach Hermes to translate text and people's chats.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/segmentio/hermes-translate.git"
+  },
+  "dependencies": {
+    "co": "~3.0.6",
+    "co-request": "^0.2.0",
+    "to-function": "~2.0.5"
+  },
+  "keywords": [
+    "hermes",
+    "translate"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/segmentio/hermes-translate/issues"
+  },
+  "homepage": "https://github.com/segmentio/hermes-translate"
+}
